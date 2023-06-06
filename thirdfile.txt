@@ -1,0 +1,12 @@
+something
+
+first_git folder open in vs code (right side)
+first_git repo open in GitHub Desktop (left side)
+-update file from vs code.
+-and save it here 
+go to GitHub Desktop
+-click on changes tab
+-write commit message
+click on commit
+
+commit from GitHub Desktop.
