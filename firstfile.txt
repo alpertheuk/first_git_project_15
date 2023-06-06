@@ -1,1 +1,11 @@
 hello git
+
+hello again
+
+how to save changes to git? 
+-we call it commit here(git)
+-how to commit changes?
+-go to source control tab
+-click on+--> go to staging area. (stage the files which needs to be committed)
+ -write commit message
+ -click commit
